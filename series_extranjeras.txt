@@ -8,5 +8,9 @@ CSI
 Crimen en el paraiso
 
 Bright Minds
+<<<<<<< HEAD
 
 Me las apunto
+=======
+Buenas recomendaciones
+>>>>>>> c11f57aa23745c2131efde824b8b04f53d858246
